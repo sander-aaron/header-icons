@@ -9,8 +9,16 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-color: #d05c2e;
+  padding: .5em;
+  margin: 0;
+}
+
 h1 {
   font-family: 'Merriweather', serif;
+  text-align: center;
+  font-size: 2rem;
 }
 
 .left {
@@ -21,4 +29,16 @@ h1 {
 .right {
   float: right;
   max-width: 40px;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  list-style-type: none;
+  text-decoration: none;
+  font-family: 'Merriweather', serif;
+  font-size: 1.125rem;
 }
