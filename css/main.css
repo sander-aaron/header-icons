@@ -33,12 +33,16 @@ h1 {
 
 ul {
   text-align: center;
+  padding: 0;
 }
 
 li {
   display: inline-block;
+  width: 30%;
   list-style-type: none;
   text-decoration: none;
   font-family: 'Merriweather', serif;
   font-size: 1.125rem;
+  margin: 0;
+  border: 1px solid #a63f38;
 }
