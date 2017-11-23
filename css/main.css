@@ -8,3 +8,17 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+h1 {
+  font-family: 'Merriweather', serif;
+}
+
+.left {
+  float: left;
+  max-width: 40px;
+}
+
+.right {
+  float: right;
+  max-width: 40px;
+}
