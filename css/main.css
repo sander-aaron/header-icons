@@ -58,3 +58,8 @@ li {
   border: 1px solid #a63f38;
   padding: .5em;
 }
+
+li:nth-child(2) {
+  border-left: none;
+  border-right: none;
+}
