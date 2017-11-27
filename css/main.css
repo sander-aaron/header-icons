@@ -26,7 +26,7 @@ h1 {
   color: #fff;
   text-align: center;
   font-size: 2rem;
-  margin: .5em;
+  margin: .3em;
 }
 
 .left {
@@ -66,9 +66,5 @@ li:nth-child(2) {
 }
 
 li:hover {
-  background-color: #a63f38;
-}
-
-nav:hover {
   background-color: #a63f38;
 }
