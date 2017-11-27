@@ -11,14 +11,17 @@ html {
 
 body {
   background-color: #d05c2e;
-  padding: .5em;
+  padding-top: .5em;
+  padding-bottom: .5em;
   margin: 0;
 }
 
 h1 {
   font-family: 'Merriweather', serif;
+  color: #fff;
   text-align: center;
   font-size: 2rem;
+  margin: .5em;
 }
 
 .left {
@@ -37,12 +40,17 @@ ul {
 }
 
 li {
+  background-color: #d05c2e;
   display: inline-block;
-  width: 30%;
+  float: left;
+  width: 33.3333333%;
+  box-sizing: border-box;
   list-style-type: none;
   text-decoration: none;
   font-family: 'Merriweather', serif;
   font-size: 1.125rem;
+  color: #fff;
   margin: 0;
   border: 1px solid #a63f38;
+  padding: .5em;
 }
