@@ -21,6 +21,10 @@ a {
   color: #fff;
 }
 
+.nav:hover {
+  background-color: #a63f38;
+}
+
 h1 {
   font-family: Merriweather, serif;
   color: #fff;
